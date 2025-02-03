@@ -13,3 +13,7 @@ I aim to develop this script into an application that suggests the optimal next 
 # Progress
 
 Not a current priority. Work in progress.
+
+# Note
+
+Warning: This script won’t turn you into a high-roller, but it might help you lose money more efficiently. Proceed with caution and a sense of humor!
